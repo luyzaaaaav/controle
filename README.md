@@ -1,6 +1,11 @@
 # API de Controle Financeiro
  
 Projeto em PHP com Slim 4, mantendo a estrutura e o estilo de rotas usado no arquivo original.
+
+## Como Clonar
+Para clonar esse projeto, você deve entrar no aplicativo Windows PowerShell e digitar:
+
+https://github.com/luyzaaaaav/controle.git
  
 ## Instalação e execução
  
