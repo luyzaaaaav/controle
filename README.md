@@ -5,7 +5,7 @@ Projeto em PHP com Slim 4, mantendo a estrutura e o estilo de rotas usado no arq
 ## Como Clonar
 Para clonar esse projeto, você deve entrar no aplicativo Windows PowerShell e digitar:
 
-https://github.com/luyzaaaaav/controle.git
+git clone https://github.com/luyzaaaaav/controle.git
  
 ## Instalação e execução
  
